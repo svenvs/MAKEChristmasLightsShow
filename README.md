@@ -13,7 +13,7 @@ Before we start I want to make sure you have the folowing things with you:
 * Micro USB cable that is able too transfer data
 
 So if you have all the things from the shopping list you can start by prepping your PC. first lest verify if you need to install a driver or not. go too this link: inprogress...
-Then connect the NODEMCU with your computer. and do what is asked on the screen. If it says great success you are good. Else install the driver : https://sparks.gogo.co.nz/ch340.html. if that does not work please try a different usb cable 
+Then connect the NODEMCU with your computer. and do what is asked on the screen. If it says great success you are good. Else install the driver : https://github.com/nodemcu/nodemcu-devkit/tree/master/Drivers. if that does not work please try a different usb cable 
 
 All connections working? Great lets move on!
 
@@ -31,7 +31,7 @@ So all wired up? still no lights ? yeah that is correct :D we must first install
 
 ## WLED installation
 
-Go too this website: and connect your node mcu to the computer. follow the instructions on the page. When the upload is complete great job you have now programmed a NODE MCU without even touching code ! :D 
+Go too this website: https://vstr.dev/MAKE/ and connect your node mcu to the computer. follow the instructions on the page. When the upload is complete great job you have now programmed a NODE MCU without even touching code ! :D 
 
 You can disconnect the NODEMCU from your computer 
 
@@ -82,10 +82,10 @@ Atribute      | Value
 ------------- | -------------
 Name          | A cool name you like
 Autosize      | Unchecked (FALSE)
-Vendor           | WLED
-Model           | WLED
-Variant           | Generic ESP8266
-IP adress           | IP adress can be found in wled app
+Vendor        | WLED
+Model         | WLED
+Variant       | Generic ESP8266
+IP adress     | IP adress can be found in wled app
 Start universe      | 1
 Universe count      | 1
 Channels per universe      | 90
