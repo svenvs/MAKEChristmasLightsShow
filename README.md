@@ -45,7 +45,7 @@ And you will see the welcome screen:
 
 Now click on WIFI SETTINGS and update the wifi settings too the one in your house.
 
-![WLED welcome screen](/assets/wledwifisettings.PNG)
+![WLED welcome screen](/assets/wledwifisettings.png)
 
 When done it might be ok to reboot the device by just pulling the plug and connecting it again. 
 Also put your phone back to use your wifi. 
