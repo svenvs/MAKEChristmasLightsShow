@@ -12,25 +12,25 @@ Before we start I want to make sure you have the folowing things with you:
 * USB power adapter minimum 500 mili amps (most phone chargers will do)
 * Micro USB cable that is able too transfer data
 
-So if you have all the things from the shopping list you can start by prepping your PC. first lest verify if you need to install a driver or not. go too this link: inprogress...
-Then connect the NODEMCU with your computer. and do what is asked on the screen. If it says great success you are good. Else install the driver : https://sparks.gogo.co.nz/ch340.html. if that does not work please try a different usb cable
+So, if you have all the things from the shopping list you can start by prepping your PC. first lest verify if you need to install a driver or not. go too this link: inprogress...
+Then connect the NODEMCU with your computer. and do what is asked on the screen. If it says great success you are good. Else install the driver: https://sparks.gogo.co.nz/ch340.html. if that does not work please try a different usb cable
 
 All connections working? Great lets move on!
 
 ## WLED installation
 
-Of course we are super lazy so we want to do as little as possible. and for instead of programming a whole app there where some cool people that already did. And we are going too use that ! :D
+Of course we are super lazy so we want to do as little as possible. and for instead of programming a whole app there where some cool people that already did. And we are going to use that! :D
 
-Go too this website: https://vstr.dev/MAKE/ and connect your node mcu to the computer. follow the instructions on the page. When the upload is complete great job you have now programmed a NODE MCU without even touching code ! :D
+Go too this website: https://vstr.dev/MAKE/ and connect your node mcu to the computer. follow the instructions on the page. When the upload is complete great job, you have now programmed a NODE MCU without even touching code! :D
 
 You can disconnect the NODEMCU from your computer
 
 Is the website not able to flash your nodeMCU no problem go to this link: and here a new guide that can help you flash your nodeMCU
 
-## Lets hookup some wires
+## Let's hookup some wires
 
-Please make sure you first flash the NODEMCU before connecting the LED's. Its for the stability of flashing the NODEMCU. the LED's might draw too much power...
-Dissconnect the NODEMCU from your PC.
+Please make sure you first flash the NODEMCU before connecting the LED's. It’s for the stability of flashing the NODEMCU. the LED's might draw too much power...
+Disconnect the NODEMCU from your PC.
 
 NODE MCU      | LED STRIP
 ------------- | -------------
@@ -42,7 +42,7 @@ When you have the wires correctly plugged in and you power the NODEMCU with your
 
 ## Configure WLED
 
-If you go too your mobile phone and have a look for wifi networks you will find a new wife network called: WLED-AP you can login to that network with the default password: **wled1234**
+If you go to your mobile phone and have a look for wifi networks you will find a new wife network called: WLED-AP you can login to that network with the default password: **wled1234**
 
 And you will see the welcome screen:
 ![WLED welcome screen](/assets/wledwelcome.PNG)
@@ -56,18 +56,18 @@ Also put your phone back to use your wifi.
 
 ### discover WLED
 
-When you open the app and it will tell you there you need too add your wled click on the + sign in the right top corner. and it will give you this screen:
+When you open the app and it will tell you there you need to add your wled click on the + sign in the right top corner. and it will give you this screen:
 
 ![WLED welcome screen](/assets/wleddiscoverlights.jpeg)
 
-If you click on discoverlights it will start scanning your wifi network too find your wled. After a wile it will say found WLED and then you can hit the check mark to get back to the home screen. where it will show you your wled:
+If you click on discoverlights it will start scanning your wifi network to find your wled. After a wile it will say found WLED and then you can hit the check mark to get back to the home screen. where it will show you your wled:
 
 ![WLED welcome screen](/assets/wledapphomescreen.jpeg)
 
-If it not found your LEDS it might be that the wifi settings of the prefious step did not workout properly. Check if you see a WLED-AP wifi network again. if that is not there you need to reflash the device and start over. You could try setting up the network connections with your computer. This might help only you will loose internet connection of your PC for a bit.
+If the app did not find your LEDS it might be that the wifi settings of the previous step did not workout properly. Check if you see a WLED-AP wifi network again. if that is not there you need to reflash the device and start over. You could try setting up the network connections with your computer. This might help only you will lose internet connection of your PC for a bit.
 
 If the LEDs are found :D
-Click on your Wled and have fun! start playing around also check effects :D. When you are done playing get back tho the tutorial :D
+Click on your Wled and have fun! start playing around also check effects :D. When you are done playing get back to the tutorial :D
 
 ## Xlights first start
 
@@ -75,7 +75,7 @@ First it will ask where you want to save all the files.
 
 ![WLED welcome screen](/assets/xlightsfirststartshowdir.PNG) give it a nice location what you like best
 
-when that is done we have too set up the connection between xlights and WLED. on the left you can find the button Add ethernet click on that one and it will open up a settings page on the right. these are the value's you need to set it with: *Only the important ones are given the rest leave as default or empty
+when that is done we have to set up the connection between xlights and WLED. on the left you can find the button Add ethernet click on that one and it will open a settings page on the right. these are the value's you need to set it with: *Only the important ones are given the rest leave as default or empty
 
 Atribute                 | Value
 ------------------------ | -------------
@@ -100,9 +100,9 @@ Now fiddle around with the buttons and if all done correctly you will see your l
 
 ## Xlights lightshow layout
 
-Before we can start making our lightshow we have to make our layout. This is basically making a picture of all our LED's we have setup around our house ;) ;). for now you can just make a picture of your LED strip and email it too yourself.
+Before we can start making our lightshow we have to make our layout. This is basically taking a picture of all our LED's we have setup around our house ;) ;). for now you can just make a picture of your LED strip and email it to yourself.
 
-to upload your picture click on the layout tab in xlights. and then on the left side you can find background image. there you can add it. Its nice to play with the darknes todarken the picture abit so that you can see the colors later.
+to upload your picture, click on the layout tab in xlights. and then on the left side you can find background image. there you can add it. Its nice to play with the darkness to darken the picture abit so that you can see the colors later.
 
 ![Xlight layout tab](/assets/xlightsLayout.png)
 
@@ -125,11 +125,11 @@ These are mine settings:
 
 ![Xlight layout tab](/assets/xlightslinesettings.png)
 
-Done? Perfect now lets test out your model. by going again to the testing pane(tools -> test) and click on the models tab. start playing around with the radio buttons again. if your LED strip is responding you are good too continue.
+Done? Perfect now let’s test out your model. by going again to the testing pane (tools -> test) and click on the models tab. start playing around with the radio buttons again. if your LED strip is responding you are good to continue.
 
 ## Xlights Sequencing a light show
 
-🎵 And its now the wonderfull time of the MAKE sessioooon 🎵 We are now going to add our cool music sequence to make our LED's DANCE!!!
+🎵 And its now the wonderful time of the MAKE sessioooon 🎵 We are now going to add our cool music sequence to make our LED's DANCE!!!
 
 First we need to go to the Sequencer tab. when you landed there you can click this button: ![Xlight layout tab](/assets/XlightsNewSequence.png) and it will ask you and then click the big red button musical sequence. Select your fantastic christmas song and click on 20fps. And on quick start.
 
