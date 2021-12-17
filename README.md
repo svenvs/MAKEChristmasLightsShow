@@ -104,13 +104,13 @@ Before we can start making our lightshow we have to make our layout. This is bas
 
 to upload your picture click on the layout tab in xlights. and then on the left side you can find background image. there you can add it. Its nice to play with the darknes todarken the picture abit so that you can see the colors later.
 
-![Xlight layout tab](/assets/xlightsLayout.PNG)
+![Xlight layout tab](/assets/xlightsLayout.png)
 
 ### Adding a model
 
 Now to show Xlights where our LED strip is in the picture we are going to create a so called model. to do this on the right side you see some buttons we are going to create a single line click on the button as seen in the image and draw a single line. Keep your mouse button down and release when you are happy with the line.
 
-![Xlight layout tab](/assets/xlightsSingleline.PNG)
+![Xlight layout tab](/assets/xlightsSingleline.png)
 
 Now on the left side we need to assign which lights our line represents. These are te settings you need too change:
 
@@ -123,7 +123,7 @@ Start channel            | 1
 
 These are mine settings:
 
-![Xlight layout tab](/assets/xlightslinesettings.PNG)
+![Xlight layout tab](/assets/xlightslinesettings.png)
 
 Done? Perfect now lets test out your model. by going again to the testing pane(tools -> test) and click on the models tab. start playing around with the radio buttons again. if your LED strip is responding you are good too continue.
 
@@ -131,16 +131,16 @@ Done? Perfect now lets test out your model. by going again to the testing pane(t
 
 🎵 And its now the wonderfull time of the MAKE sessioooon 🎵 We are now going to add our cool music sequence to make our LED's DANCE!!!
 
-First we need to go to the Sequencer tab. when you landed there you can click this button: ![Xlight layout tab](/assets/XlightsNewSequence.PNG) and it will ask you and then click the big red button musical sequence. Select your fantastic christmas song and click on 20fps. And on quick start.
+First we need to go to the Sequencer tab. when you landed there you can click this button: ![Xlight layout tab](/assets/XlightsNewSequence.png) and it will ask you and then click the big red button musical sequence. Select your fantastic christmas song and click on 20fps. And on quick start.
 
 Now you are all ready to start creating nice sequences.
 
 On the top left you can find some preinstalled effects. In mid right you can see your waveform of the music track. below there you can see the models. You now have only 1. you can drag and drop the effects inside the black area. then on the moment of time of the music that effect will appear on the lights. Lets start simple by just dragging the BARS in there. see the image:
 
-![Xlight layout tab](/assets/xlightslinesettings.PNG)
+![Xlight layout tab](/assets/xlightslinesettings.png)
 
 In the settings panel you can change the direction of the bars. from up to down or left to right etc etc.
 
-When you have your sequence ready and want to enjoy your show. you can click on the light bulb button ![Xlight layout tab](/assets/lightbulb.PNG) on the far right. to output to the lights. and click on the Play button ![Xlight layout tab](/assets/play.PNG)  to start your show.
+When you have your sequence ready and want to enjoy your show. you can click on the light bulb button ![Xlight layout tab](/assets/lightbulb.png) on the far right. to output to the lights. and click on the Play button ![Xlight layout tab](/assets/play.png)  to start your show.
 
 Enjoy!
