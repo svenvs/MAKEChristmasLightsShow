@@ -1,0 +1,20 @@
+.reveal img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  display: inline-block;
+}
+
+.reveal img.lefty {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  float: left;
+}
+
+.reveal img.bigger {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  float: left;
+}
