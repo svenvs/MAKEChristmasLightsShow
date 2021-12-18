@@ -69,6 +69,10 @@ If the app did not find your LEDS it might be that the wifi settings of the prev
 If the LEDs are found :D
 Click on your Wled and have fun! start playing around also check effects :D. When you are done playing get back to the tutorial :D
 
+---
+
+Get back to the slides
+
 ## Xlights first start
 
 First it will ask where you want to save all the files.
