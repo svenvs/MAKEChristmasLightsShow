@@ -141,7 +141,7 @@ Now you are all ready to start creating nice sequences.
 
 On the top left you can find some preinstalled effects. In mid right you can see your waveform of the music track. below there you can see the models. You now have only 1. you can drag and drop the effects inside the black area. then on the moment of time of the music that effect will appear on the lights. Lets start simple by just dragging the BARS in there. see the image:
 
-![Xlight layout tab](/assets/xlightslinesettings.png)
+![Xlight layout tab](/assets/seq.png)
 
 In the settings panel you can change the direction of the bars. from up to down or left to right etc etc.
 
