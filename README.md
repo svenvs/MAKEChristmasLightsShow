@@ -35,7 +35,7 @@ Disconnect the NODEMCU from your PC.
 NODE MCU      | LED STRIP
 ------------- | -------------
 VIN           | Red wire
-GND           | Black wire
+G             | Black wire
 D4            | Yellow or white wire start with yellow
 
 When you have the wires correctly plugged in and you power the NODEMCU with your phone charger. the LED's will turn orange
