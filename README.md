@@ -25,7 +25,7 @@ Go too this website: https://vstr.dev/MAKE/ and connect your node mcu to the com
 
 You can disconnect the NODEMCU from your computer
 
-Is the website not able to flash your nodeMCU no problem go to this link: and here a new guide that can help you flash your nodeMCU
+Is the website not able to flash your nodeMCU no problem go to this link: https://github.com/svenvs/MAKEChristmasLightsShow/blob/main/troubleshooting/oldfasionedFlash.md and here a new guide that can help you flash your nodeMCU
 
 ## Let's hookup some wires
 
